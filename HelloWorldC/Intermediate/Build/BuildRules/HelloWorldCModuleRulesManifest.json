@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Brayden\\Documents\\unreal\\HelloWorld\\HelloWorldC\\HelloWorldC\\Source\\HelloWorldC\\HelloWorldC.Build.cs",
+		"C:\\Users\\Brayden\\Documents\\unreal\\HelloWorld\\HelloWorldC\\HelloWorldC\\Source\\HelloWorldC.Target.cs",
+		"C:\\Users\\Brayden\\Documents\\unreal\\HelloWorld\\HelloWorldC\\HelloWorldC\\Source\\HelloWorldCEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.3"
+}

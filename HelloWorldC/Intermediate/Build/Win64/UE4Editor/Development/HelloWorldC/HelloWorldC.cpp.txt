@@ -1,0 +1,2 @@
+C:\Users\Brayden\Documents\unreal\HelloWorld\HelloWorldC\HelloWorldC\Intermediate\Build\Win64\UE4Editor\Development\HelloWorldC\Definitions.HelloWorldC.h
+C:\Users\Brayden\Documents\unreal\HelloWorld\HelloWorldC\HelloWorldC\Source\HelloWorldC\HelloWorldC.h

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "HelloWorldC",
+			"Path": "C:\\Users\\Brayden\\Documents\\unreal\\HelloWorld\\HelloWorldC\\HelloWorldC\\Source\\HelloWorldC.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "HelloWorldCEditor",
+			"Path": "C:\\Users\\Brayden\\Documents\\unreal\\HelloWorld\\HelloWorldC\\HelloWorldC\\Source\\HelloWorldCEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
