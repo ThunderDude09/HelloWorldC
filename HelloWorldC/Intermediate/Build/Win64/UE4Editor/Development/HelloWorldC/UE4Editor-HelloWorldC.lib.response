@@ -9,8 +9,10 @@
 "C:\Users\Brayden\Documents\unreal\HelloWorld\HelloWorldC\HelloWorldC\Intermediate\Build\Win64\HelloWorldCEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
 "C:\Users\Brayden\Documents\unreal\HelloWorld\HelloWorldC\HelloWorldC\Intermediate\Build\Win64\UE4Editor\Development\HelloWorldC\HelloWorldC.cpp.obj"
 "C:\Users\Brayden\Documents\unreal\HelloWorld\HelloWorldC\HelloWorldC\Intermediate\Build\Win64\UE4Editor\Development\HelloWorldC\HelloWorldCGameModeBase.cpp.obj"
+"C:\Users\Brayden\Documents\unreal\HelloWorld\HelloWorldC\HelloWorldC\Intermediate\Build\Win64\UE4Editor\Development\HelloWorldC\NewActorComponent.cpp.obj"
 "C:\Users\Brayden\Documents\unreal\HelloWorld\HelloWorldC\HelloWorldC\Intermediate\Build\Win64\UE4Editor\Development\HelloWorldC\HelloWorldC.init.gen.cpp.obj"
 "C:\Users\Brayden\Documents\unreal\HelloWorld\HelloWorldC\HelloWorldC\Intermediate\Build\Win64\UE4Editor\Development\HelloWorldC\HelloWorldCGameModeBase.gen.cpp.obj"
+"C:\Users\Brayden\Documents\unreal\HelloWorld\HelloWorldC\HelloWorldC\Intermediate\Build\Win64\UE4Editor\Development\HelloWorldC\NewActorComponent.gen.cpp.obj"
 "C:\Users\Brayden\Documents\unreal\HelloWorld\HelloWorldC\HelloWorldC\Intermediate\Build\Win64\UE4Editor\Development\HelloWorldC\Default.rc2.res"
 /OUT:"C:\Users\Brayden\Documents\unreal\HelloWorld\HelloWorldC\HelloWorldC\Intermediate\Build\Win64\UE4Editor\Development\HelloWorldC\UE4Editor-HelloWorldC.lib"
 /INCLUDE:IMPLEMENT_MODULE_HelloWorldC

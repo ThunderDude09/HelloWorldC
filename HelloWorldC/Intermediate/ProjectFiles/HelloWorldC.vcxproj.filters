@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\HelloWorldC.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{0752F87A-F10B-4AFD-9369-135D923D1DDC}</UniqueIdentifier>
+      <UniqueIdentifier>{876EA8C8-B3B8-45A1-98AB-7AE9E1AB3566}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\HelloWorldC.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{FE0B941C-C7AF-4265-9FB6-57C6EA453329}</UniqueIdentifier>
+      <UniqueIdentifier>{BC117C76-380A-4DFE-AFF4-80200C102F47}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,7 +24,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\HelloWorldC">
-      <UniqueIdentifier>{127B4F71-4561-42BD-8E19-1FB80BCC6D26}</UniqueIdentifier>
+      <UniqueIdentifier>{C1D0EF09-62C7-4596-94B7-170FAC927C75}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\HelloWorldC\HelloWorldC.Build.cs">
       <Filter>Source\HelloWorldC</Filter>
@@ -39,6 +39,12 @@
       <Filter>Source\HelloWorldC</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\HelloWorldC\HelloWorldCGameModeBase.h">
+      <Filter>Source\HelloWorldC</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HelloWorldC\NewActorComponent.cpp">
+      <Filter>Source\HelloWorldC</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HelloWorldC\NewActorComponent.h">
       <Filter>Source\HelloWorldC</Filter>
     </ClInclude>
   </ItemGroup>
